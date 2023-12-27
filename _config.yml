@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Delián Colón-Burgos"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "☼ 1st year M.S. Graduate Student \n ☼ 2023 NSF Graduate Research Fellow"
   location         : "Fort Collins, CO"
   email            : "deliancb@colostate.edu"
