@@ -106,16 +106,13 @@ analytics:
 author:
   name             : "Delián Colón-Burgos"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "☼ 1st year M.S. Graduate Student \n ☼ 2023 NSF Graduate Research Fellow"
   location         : "Fort Collins, CO"
   email            : "deliancb@colostate.edu"
   links:
-    - label: "Email"
+    - label: "deliancb@colostate.edu"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:deliancb@colostate.edu"
-    - label: "CSU Bell group website"
-      icon: "fas fa-fw fa-link"
-      url: "https://tropical.colostate.edu/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/Delian_wx"
@@ -128,19 +125,22 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "CSU Bell group website"
+      icon: "fas fa-fw fa-link"
+      url: "https://tropical.colostate.edu/"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/Delian_wx"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/DelianColon"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
