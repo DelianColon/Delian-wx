@@ -1,5 +1,7 @@
 ---
 layout: default
+title: "Homepage"
+permalink: https://deliancolon.github.io/Delian-wx/
 ---
 
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
